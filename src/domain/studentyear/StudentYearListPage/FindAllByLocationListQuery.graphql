@@ -1,0 +1,11 @@
+#import "../../gqlfragments/FindAllByLocation.graphql"
+
+fragment findAllByLocationSummary on StudentYearDTO {
+  ...findAllByLocation
+}
+
+query findAllByLocationList {
+  findAllByLocations {
+    ...findAllByLocationSummary
+  }
+}
