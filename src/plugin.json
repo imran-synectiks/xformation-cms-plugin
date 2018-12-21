@@ -33,10 +33,10 @@
     },
     {
       "type": "page",
-      "name": "findStudentYears",
+      "name": "FindAllByLocations",
       "addToNav": true,
       "defaultNav": false,
-      "component": "FindStudentYearsPage"
+      "component": "FindAllByLocationsPage"
     }
   ],
   "dependencies": {

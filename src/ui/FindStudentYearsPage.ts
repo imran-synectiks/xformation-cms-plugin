@@ -1,6 +1,6 @@
-import init from '../domain/studentyear/StudentYearListPage/StudentYearListApp';
+import init from '../domain/location/FindAllByLocationListPage/FindAllByLocationListApp';
 
-export class FindStudentYearsPage {
+export class FindAllByLocationsPage {
     static templateUrl = '/partials/findstudentyears.html';
     constructor() {
         init();

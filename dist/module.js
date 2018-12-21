@@ -9257,7 +9257,7 @@ exports = module.exports = __webpack_require__(/*! ../../node_modules/css-loader
 
 
 // module
-exports.push([module.i, ".heading{\n    margin-top: 2rem;\n    margin-bottom: 2rem;\n}\n\n.striped-table{\n    width: 100%;\n    border-collapse: separate;\n    margin-bottom: 2rem;\n}\n\n.striped-table th{\n    width: auto;\n    text-align: left;\n    height: 30px;\n    white-space: nowrap;\n    font-weight: bold;\n    background-color: #3C3834 !important;\n    color: white;\n    padding-left: 10px;\n}\n\n.striped-table tr{\n    height: 40px;\n}\n\n.striped-table tbody tr td{\n    padding-left: 10px;\n    border-top: 1px solid #34302D;\n}\n.striped-table tbody tr:nth-child(odd) {\n    background: #F1F1F1;\n}\n\n.striped-table .table-link{\n    text-decoration: underline;\n    color: #5fa134;\n}\n\n.striped-table .table-link:hover{\n    text-decoration: none !important;\n}\n\n.customButton{\n    background-color: #34302D !important;\n    border: 1px solid #5fa134 !important;\n    color: white;\n    border-radius: 0px !important;\n}\n\n.customButton:hover {\n    border: 1px solid #34302D !important;\n    color: white;\n}\n", "", {"version":3,"sources":["C:/MyCode/plugins/xformation-petclinic-panel/src/css/dark.css"],"names":[],"mappings":"AAAA;IACI,iBAAiB;IACjB,oBAAoB;CACvB;;AAED;IACI,YAAY;IACZ,0BAA0B;IAC1B,oBAAoB;CACvB;;AAED;IACI,YAAY;IACZ,iBAAiB;IACjB,aAAa;IACb,oBAAoB;IACpB,kBAAkB;IAClB,qCAAqC;IACrC,aAAa;IACb,mBAAmB;CACtB;;AAED;IACI,aAAa;CAChB;;AAED;IACI,mBAAmB;IACnB,8BAA8B;CACjC;AACD;IACI,oBAAoB;CACvB;;AAED;IACI,2BAA2B;IAC3B,eAAe;CAClB;;AAED;IACI,iCAAiC;CACpC;;AAED;IACI,qCAAqC;IACrC,qCAAqC;IACrC,aAAa;IACb,8BAA8B;CACjC;;AAED;IACI,qCAAqC;IACrC,aAAa;CAChB","file":"dark.css","sourcesContent":[".heading{\n    margin-top: 2rem;\n    margin-bottom: 2rem;\n}\n\n.striped-table{\n    width: 100%;\n    border-collapse: separate;\n    margin-bottom: 2rem;\n}\n\n.striped-table th{\n    width: auto;\n    text-align: left;\n    height: 30px;\n    white-space: nowrap;\n    font-weight: bold;\n    background-color: #3C3834 !important;\n    color: white;\n    padding-left: 10px;\n}\n\n.striped-table tr{\n    height: 40px;\n}\n\n.striped-table tbody tr td{\n    padding-left: 10px;\n    border-top: 1px solid #34302D;\n}\n.striped-table tbody tr:nth-child(odd) {\n    background: #F1F1F1;\n}\n\n.striped-table .table-link{\n    text-decoration: underline;\n    color: #5fa134;\n}\n\n.striped-table .table-link:hover{\n    text-decoration: none !important;\n}\n\n.customButton{\n    background-color: #34302D !important;\n    border: 1px solid #5fa134 !important;\n    color: white;\n    border-radius: 0px !important;\n}\n\n.customButton:hover {\n    border: 1px solid #34302D !important;\n    color: white;\n}\n"],"sourceRoot":""}]);
+exports.push([module.i, ".heading{\n    margin-top: 2rem;\n    margin-bottom: 2rem;\n}\n\n.striped-table{\n    width: 100%;\n    border-collapse: separate;\n    margin-bottom: 2rem;\n}\n\n.striped-table th{\n    width: auto;\n    text-align: left;\n    height: 30px;\n    white-space: nowrap;\n    font-weight: bold;\n    background-color: #3C3834 !important;\n    color: white;\n    padding-left: 10px;\n}\n\n.striped-table tr{\n    height: 40px;\n}\n\n.striped-table tbody tr td{\n    padding-left: 10px;\n    border-top: 1px solid #34302D;\n}\n.striped-table tbody tr:nth-child(odd) {\n    background: #F1F1F1;\n}\n\n.striped-table .table-link{\n    text-decoration: underline;\n    color: #5fa134;\n}\n\n.striped-table .table-link:hover{\n    text-decoration: none !important;\n}\n\n.customButton{\n    background-color: #34302D !important;\n    border: 1px solid #5fa134 !important;\n    color: white;\n    border-radius: 0px !important;\n}\n\n.customButton:hover {\n    border: 1px solid #34302D !important;\n    color: white;\n}\n", "", {"version":3,"sources":["C:/MyCode/plugins/xformation-cms-plugin/src/css/dark.css"],"names":[],"mappings":"AAAA;IACI,iBAAiB;IACjB,oBAAoB;CACvB;;AAED;IACI,YAAY;IACZ,0BAA0B;IAC1B,oBAAoB;CACvB;;AAED;IACI,YAAY;IACZ,iBAAiB;IACjB,aAAa;IACb,oBAAoB;IACpB,kBAAkB;IAClB,qCAAqC;IACrC,aAAa;IACb,mBAAmB;CACtB;;AAED;IACI,aAAa;CAChB;;AAED;IACI,mBAAmB;IACnB,8BAA8B;CACjC;AACD;IACI,oBAAoB;CACvB;;AAED;IACI,2BAA2B;IAC3B,eAAe;CAClB;;AAED;IACI,iCAAiC;CACpC;;AAED;IACI,qCAAqC;IACrC,qCAAqC;IACrC,aAAa;IACb,8BAA8B;CACjC;;AAED;IACI,qCAAqC;IACrC,aAAa;CAChB","file":"dark.css","sourcesContent":[".heading{\n    margin-top: 2rem;\n    margin-bottom: 2rem;\n}\n\n.striped-table{\n    width: 100%;\n    border-collapse: separate;\n    margin-bottom: 2rem;\n}\n\n.striped-table th{\n    width: auto;\n    text-align: left;\n    height: 30px;\n    white-space: nowrap;\n    font-weight: bold;\n    background-color: #3C3834 !important;\n    color: white;\n    padding-left: 10px;\n}\n\n.striped-table tr{\n    height: 40px;\n}\n\n.striped-table tbody tr td{\n    padding-left: 10px;\n    border-top: 1px solid #34302D;\n}\n.striped-table tbody tr:nth-child(odd) {\n    background: #F1F1F1;\n}\n\n.striped-table .table-link{\n    text-decoration: underline;\n    color: #5fa134;\n}\n\n.striped-table .table-link:hover{\n    text-decoration: none !important;\n}\n\n.customButton{\n    background-color: #34302D !important;\n    border: 1px solid #5fa134 !important;\n    color: white;\n    border-radius: 0px !important;\n}\n\n.customButton:hover {\n    border: 1px solid #34302D !important;\n    color: white;\n}\n"],"sourceRoot":""}]);
 
 // exports
 
@@ -23003,16 +23003,76 @@ if(false) {}
 
 /***/ }),
 
-/***/ "./domain/studentyear/StudentYearListPage/FindAllByLocationListQuery.graphql":
-/*!***********************************************************************************!*\
-  !*** ./domain/studentyear/StudentYearListPage/FindAllByLocationListQuery.graphql ***!
-  \***********************************************************************************/
+/***/ "./domain/location/FindAllByLocationListPage/FindAllByLocationListApp.tsx":
+/*!********************************************************************************!*\
+  !*** ./domain/location/FindAllByLocationListPage/FindAllByLocationListApp.tsx ***!
+  \********************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", { value: true });
+var React = __webpack_require__(/*! react */ "react");
+var ReactDOM = __webpack_require__(/*! react-dom */ "react-dom");
+var react_apollo_1 = __webpack_require__(/*! react-apollo */ "../node_modules/react-apollo/react-apollo.browser.umd.js");
+var react_router_dom_1 = __webpack_require__(/*! react-router-dom */ "../node_modules/react-router-dom/es/index.js");
+var createGraphQLClient_1 = __webpack_require__(/*! ../../../createGraphQLClient */ "./createGraphQLClient.tsx");
+var FindAllByLocationListPage_1 = __webpack_require__(/*! ./FindAllByLocationListPage */ "./domain/location/FindAllByLocationListPage/FindAllByLocationListPage.tsx");
+__webpack_require__(/*! ../../../css/dark.css */ "./css/dark.css");
+var graphQLClient = createGraphQLClient_1.createGraphQLClient();
+function init() {
+    setTimeout(function () {
+        ReactDOM.render(React.createElement(react_apollo_1.ApolloProvider, { client: graphQLClient }, React.createElement(react_router_dom_1.BrowserRouter, null, React.createElement(react_router_dom_1.Switch, null, React.createElement(react_router_dom_1.Route, { path: "/plugins/xformation-petclinic-panel/page/findalbyllocations", component: FindAllByLocationListPage_1.default })))), document.getElementById("mountFindAllByLocationList"));
+    }, 10);
+}
+exports.default = init;
+
+/***/ }),
+
+/***/ "./domain/location/FindAllByLocationListPage/FindAllByLocationListPage.tsx":
+/*!*********************************************************************************!*\
+  !*** ./domain/location/FindAllByLocationListPage/FindAllByLocationListPage.tsx ***!
+  \*********************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", { value: true });
+var React = __webpack_require__(/*! react */ "react");
+var react_router_dom_1 = __webpack_require__(/*! react-router-dom */ "../node_modules/react-router-dom/es/index.js");
+var react_apollo_1 = __webpack_require__(/*! react-apollo */ "../node_modules/react-apollo/react-apollo.browser.umd.js");
+var findAllByLocationListQueryGql = __webpack_require__(/*! ./FindAllByLocationListQuery.graphql */ "./domain/location/FindAllByLocationListPage/FindAllByLocationListQuery.graphql");
+var withLoadingHandler_1 = __webpack_require__(/*! ../../../components/withLoadingHandler */ "./components/withLoadingHandler.tsx");
+var FindAllByLocationRow = function FindAllByLocationRow(_a) {
+    var findAllByLocation = _a.findAllByLocation;
+    return React.createElement("tr", { key: findAllByLocation.id }, React.createElement("td", null, findAllByLocation.name));
+};
+var FindAllByLocationsTable = function FindAllByLocationsTable(_a) {
+    var findAllByLocations = _a.findAllByLocations;
+    return React.createElement("table", { className: "striped-table" }, React.createElement("thead", null, React.createElement("tr", null, React.createElement("th", null, "Student Year"))), React.createElement("tbody", null, React.createElement("h1", null, findAllByLocations.keys)));
+};
+var FindAllByLocationListPage = function FindAllByLocationListPage(_a) {
+    var findAllByLocations = _a.data.findAllByLocations;
+    return React.createElement("section", null, React.createElement("h2", { className: "heading" }, "Student Year found"), React.createElement(FindAllByLocationsTable, { findAllByLocations: findAllByLocations }), React.createElement(react_router_dom_1.Link, { to: "/plugins/xformation-petclinic-panel/page/addfaculty", className: "btn customButton" }, "Add findAllByLocation"));
+};
+exports.default = react_apollo_1.graphql(findAllByLocationListQueryGql)(withLoadingHandler_1.default(FindAllByLocationListPage));
+
+/***/ }),
+
+/***/ "./domain/location/FindAllByLocationListPage/FindAllByLocationListQuery.graphql":
+/*!**************************************************************************************!*\
+  !*** ./domain/location/FindAllByLocationListPage/FindAllByLocationListQuery.graphql ***!
+  \**************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
 
-    var doc = {"kind":"Document","definitions":[{"kind":"FragmentDefinition","name":{"kind":"Name","value":"findAllByLocationSummary"},"typeCondition":{"kind":"NamedType","name":{"kind":"Name","value":"StudentYearDTO"}},"directives":[],"selectionSet":{"kind":"SelectionSet","selections":[{"kind":"FragmentSpread","name":{"kind":"Name","value":"findAllByLocation"},"directives":[]}]}},{"kind":"OperationDefinition","operation":"query","name":{"kind":"Name","value":"findAllByLocationList"},"variableDefinitions":[],"directives":[],"selectionSet":{"kind":"SelectionSet","selections":[{"kind":"Field","name":{"kind":"Name","value":"findAllByLocations"},"arguments":[],"directives":[],"selectionSet":{"kind":"SelectionSet","selections":[{"kind":"FragmentSpread","name":{"kind":"Name","value":"findAllByLocationSummary"},"directives":[]}]}}]}}],"loc":{"start":0,"end":227}};
-    doc.loc.source = {"body":"#import \"../../gqlfragments/FindAllByLocation.graphql\"\n\nfragment findAllByLocationSummary on StudentYearDTO {\n  ...findAllByLocation\n}\n\nquery findAllByLocationList {\n  findAllByLocations {\n    ...findAllByLocationSummary\n  }\n}\n","name":"GraphQL request","locationOffset":{"line":1,"column":1}};
+    var doc = {"kind":"Document","definitions":[{"kind":"FragmentDefinition","name":{"kind":"Name","value":"findAllByLocationSummary"},"typeCondition":{"kind":"NamedType","name":{"kind":"Name","value":"LocationDTO"}},"directives":[],"selectionSet":{"kind":"SelectionSet","selections":[{"kind":"FragmentSpread","name":{"kind":"Name","value":"findAllByLocation"},"directives":[]}]}},{"kind":"OperationDefinition","operation":"query","name":{"kind":"Name","value":"findAllByLocationList"},"variableDefinitions":[],"directives":[],"selectionSet":{"kind":"SelectionSet","selections":[{"kind":"Field","name":{"kind":"Name","value":"findAllByLocations"},"arguments":[],"directives":[],"selectionSet":{"kind":"SelectionSet","selections":[{"kind":"FragmentSpread","name":{"kind":"Name","value":"findAllByLocationSummary"},"directives":[]}]}}]}}],"loc":{"start":0,"end":224}};
+    doc.loc.source = {"body":"#import \"../../gqlfragments/FindAllByLocation.graphql\"\n\nfragment findAllByLocationSummary on LocationDTO {\n  ...findAllByLocation\n}\n\nquery findAllByLocationList {\n  findAllByLocations {\n    ...findAllByLocationSummary\n  }\n}\n","name":"GraphQL request","locationOffset":{"line":1,"column":1}};
   
 
     var names = {};
@@ -23131,66 +23191,6 @@ if(false) {}
 
 /***/ }),
 
-/***/ "./domain/studentyear/StudentYearListPage/StudentYearListApp.tsx":
-/*!***********************************************************************!*\
-  !*** ./domain/studentyear/StudentYearListPage/StudentYearListApp.tsx ***!
-  \***********************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-
-
-Object.defineProperty(exports, "__esModule", { value: true });
-var React = __webpack_require__(/*! react */ "react");
-var ReactDOM = __webpack_require__(/*! react-dom */ "react-dom");
-var react_apollo_1 = __webpack_require__(/*! react-apollo */ "../node_modules/react-apollo/react-apollo.browser.umd.js");
-var react_router_dom_1 = __webpack_require__(/*! react-router-dom */ "../node_modules/react-router-dom/es/index.js");
-var createGraphQLClient_1 = __webpack_require__(/*! ../../../createGraphQLClient */ "./createGraphQLClient.tsx");
-var StudentYearListPage_1 = __webpack_require__(/*! ./StudentYearListPage */ "./domain/studentyear/StudentYearListPage/StudentYearListPage.tsx");
-__webpack_require__(/*! ../../../css/dark.css */ "./css/dark.css");
-var graphQLClient = createGraphQLClient_1.createGraphQLClient();
-function init() {
-    setTimeout(function () {
-        ReactDOM.render(React.createElement(react_apollo_1.ApolloProvider, { client: graphQLClient }, React.createElement(react_router_dom_1.BrowserRouter, null, React.createElement(react_router_dom_1.Switch, null, React.createElement(react_router_dom_1.Route, { path: "/plugins/xformation-petclinic-panel/page/findstudentyears", component: StudentYearListPage_1.default })))), document.getElementById("mountStudentYearList"));
-    }, 10);
-}
-exports.default = init;
-
-/***/ }),
-
-/***/ "./domain/studentyear/StudentYearListPage/StudentYearListPage.tsx":
-/*!************************************************************************!*\
-  !*** ./domain/studentyear/StudentYearListPage/StudentYearListPage.tsx ***!
-  \************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-
-
-Object.defineProperty(exports, "__esModule", { value: true });
-var React = __webpack_require__(/*! react */ "react");
-var react_router_dom_1 = __webpack_require__(/*! react-router-dom */ "../node_modules/react-router-dom/es/index.js");
-var react_apollo_1 = __webpack_require__(/*! react-apollo */ "../node_modules/react-apollo/react-apollo.browser.umd.js");
-var findAllByLocationListQueryGql = __webpack_require__(/*! ./FindAllByLocationListQuery.graphql */ "./domain/studentyear/StudentYearListPage/FindAllByLocationListQuery.graphql");
-var withLoadingHandler_1 = __webpack_require__(/*! ../../../components/withLoadingHandler */ "./components/withLoadingHandler.tsx");
-var FindAllByLocationRow = function FindAllByLocationRow(_a) {
-    var findAllByLocation = _a.findAllByLocation;
-    return React.createElement("tr", { key: findAllByLocation.id }, React.createElement("td", null, findAllByLocation.name));
-};
-var FindAllByLocationsTable = function FindAllByLocationsTable(_a) {
-    var findAllByLocations = _a.findAllByLocations;
-    return React.createElement("table", { className: "striped-table" }, React.createElement("thead", null, React.createElement("tr", null, React.createElement("th", null, "Student Year"))), React.createElement("tbody", null, React.createElement("h1", null, findAllByLocations.keys)));
-};
-var StudentYearListPage = function StudentYearListPage(_a) {
-    var findAllByLocations = _a.data.findAllByLocations;
-    return React.createElement("section", null, React.createElement("h2", { className: "heading" }, "Student Year found"), React.createElement(FindAllByLocationsTable, { findAllByLocations: findAllByLocations }), React.createElement(react_router_dom_1.Link, { to: "/plugins/xformation-petclinic-panel/page/addfaculty", className: "btn customButton" }, "Add findAllByLocation"));
-};
-exports.default = react_apollo_1.graphql(findAllByLocationListQueryGql)(withLoadingHandler_1.default(StudentYearListPage));
-
-/***/ }),
-
 /***/ "./module.ts":
 /*!*******************!*\
   !*** ./module.ts ***!
@@ -23207,7 +23207,7 @@ exports.WelcomePage = WelcomePage_1.WelcomePage;
 var Config_1 = __webpack_require__(/*! ./ui/Config */ "./ui/Config.ts");
 exports.ConfigCtrl = Config_1.ConfigCtrl;
 var FindStudentYearsPage_1 = __webpack_require__(/*! ./ui/FindStudentYearsPage */ "./ui/FindStudentYearsPage.ts");
-exports.FindStudentYearsPage = FindStudentYearsPage_1.FindStudentYearsPage;
+exports.FindAllByLocationsPage = FindStudentYearsPage_1.FindAllByLocationsPage;
 
 /***/ }),
 
@@ -23242,15 +23242,15 @@ exports.ConfigCtrl = ConfigCtrl;
 
 
 Object.defineProperty(exports, "__esModule", { value: true });
-var StudentYearListApp_1 = __webpack_require__(/*! ../domain/studentyear/StudentYearListPage/StudentYearListApp */ "./domain/studentyear/StudentYearListPage/StudentYearListApp.tsx");
-var FindStudentYearsPage = /** @class */function () {
-    function FindStudentYearsPage() {
-        StudentYearListApp_1.default();
+var FindAllByLocationListApp_1 = __webpack_require__(/*! ../domain/location/FindAllByLocationListPage/FindAllByLocationListApp */ "./domain/location/FindAllByLocationListPage/FindAllByLocationListApp.tsx");
+var FindAllByLocationsPage = /** @class */function () {
+    function FindAllByLocationsPage() {
+        FindAllByLocationListApp_1.default();
     }
-    FindStudentYearsPage.templateUrl = '/partials/findstudentyears.html';
-    return FindStudentYearsPage;
+    FindAllByLocationsPage.templateUrl = '/partials/findstudentyears.html';
+    return FindAllByLocationsPage;
 }();
-exports.FindStudentYearsPage = FindStudentYearsPage;
+exports.FindAllByLocationsPage = FindAllByLocationsPage;
 
 /***/ }),
 

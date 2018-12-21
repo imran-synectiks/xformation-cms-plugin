@@ -36,7 +36,7 @@ type findAllByLocationListPageProps = {
     data: QueryProps & findAllByLocationListQuery;
 };
 
-const StudentYearListPage = ({ data: { findAllByLocations } }: findAllByLocationListPageProps) =>
+const FindAllByLocationListPage = ({ data: { findAllByLocations } }: findAllByLocationListPageProps) =>
     <section>
         <h2 className="heading">
             {/* {findAllByLocations.length} */}
@@ -49,5 +49,5 @@ const StudentYearListPage = ({ data: { findAllByLocations } }: findAllByLocation
     </section>;
 
 export default graphql<findAllByLocationListQuery, findAllByLocationListPageOwnProps, findAllByLocationListPageProps>(findAllByLocationListQueryGql)(
-    withLoadingHandler<any>(StudentYearListPage)
+    withLoadingHandler<any>(FindAllByLocationListPage)
 );

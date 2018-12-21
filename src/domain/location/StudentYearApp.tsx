@@ -6,7 +6,7 @@ import { ApolloProvider } from "react-apollo";
 import { BrowserRouter, Switch, Route } from "react-router-dom";
 
 import { createGraphQLClient } from "../../createGraphQLClient";
-import StudentYearListPage from "./StudentYearListPage";
+import FindAllByLocationListPage from "./FindAllByLocationListPage";
 
 const graphQLClient = createGraphQLClient();
 
@@ -16,7 +16,7 @@ export default function init() {
       <ApolloProvider client={graphQLClient}>
         <BrowserRouter>
           <Switch>
-            <Route path="/plugins/xformation-petclinic-panel/page/findstudentyears" component={StudentYearListPage} />
+            <Route path="/plugins/xformation-petclinic-panel/page/findalbyllocations" component={FindAllByLocationListPage} />
           </Switch>
         </BrowserRouter>
       </ApolloProvider>,
