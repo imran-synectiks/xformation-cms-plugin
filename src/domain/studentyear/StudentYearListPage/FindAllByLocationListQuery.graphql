@@ -1,6 +1,6 @@
 #import "../../gqlfragments/FindAllByLocation.graphql"
 
-fragment findAllByLocationSummary on StudentYearDTO {
+fragment findAllByLocationSummary on LocationDTO {
   ...findAllByLocation
 }
 
